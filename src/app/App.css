@@ -1,0 +1,29 @@
+.App{
+  padding: 20px 100px;
+}
+.menu-item {
+  background-color: #f2f2f2;
+    color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+a{
+  text-decoration: none;
+}
+input[type="text"] {
+  height: 20px;
+  margin-bottom: 20px;
+}
+body{
+  font-family: initial;
+}
+
+button {
+  width: 200px;
+  background: antiquewhite;
+  border: 1px solid #ccc;
+  padding: 6px;
+  font-size: 15px;
+  border-radius: 4px;
+}
